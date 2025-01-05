@@ -58,7 +58,7 @@ header .overlay {
     display: none; /* Hide by default */
 }
 
-@media (max-width: 1180px) {
+@media (max-width: 1080px) {
     .header-image {
         display: none; /* Hide header images on mobile devices */
     }
