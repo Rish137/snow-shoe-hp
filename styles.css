@@ -86,7 +86,7 @@ header .overlay {
         display: block; /* Show only on mobile devices */
         width: 100%; /* Full width for mobile */
         height: auto; /* Maintain aspect ratio */
-        margin: 10px auto;
+        margin: 0px auto;
     }
 }
 
